@@ -12194,7 +12194,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CMI-1295IC-0385T/11674182"
 			(at 81.28 29.21 0)
 			(hide yes)
 			(show_name no)
